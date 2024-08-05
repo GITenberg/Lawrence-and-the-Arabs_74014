@@ -1,0 +1,55 @@
+_repo: Lawrence-and-the-Arabs_74014
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Perry, Herry
+    alias: Perry, Heather
+    birthdate: 1893
+    deathdate: 1962
+    gutenberg_agent_id: '57313'
+    url: http://www.gutenberg.org/2009/agents/57313
+    wikipedia: https://en.wikipedia.org/wiki/Herry_Perry
+  illustrator:
+    agent_name: Kennington, Eric
+    birthdate: 1888
+    deathdate: 1960
+    gutenberg_agent_id: '57312'
+    url: http://www.gutenberg.org/2009/agents/57312
+    wikipedia: https://en.wikipedia.org/wiki/Eric_Kennington
+creator:
+  author:
+    agent_name: Graves, Robert
+    aliases:
+    - Ranke-Graves, Robert von
+    - Doyle, John
+    - Graves, Robert von Ranke
+    birthdate: 1895
+    deathdate: 1985
+    gutenberg_agent_id: '628'
+    url: http://www.gutenberg.org/2009/agents/628
+    wikipedia: https://en.wikipedia.org/wiki/Robert_Graves
+description: ''
+gutenberg_issued: '2024-07-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74014'
+  lccn: '28011516'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/mdp.39015003454272
+pgterms:marc905: 20240510053907graves
+pgterms:marc906: '1927'
+pgterms:marc907: GB
+publication_note: '  $aLondon :$bJonathan Cape, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Middle East -- History'
+- !lcsh 'Great Britain. Army -- Biography'
+- !lcsh 'Soldiers -- Great Britain -- Biography'
+- !lcsh 'World War, 1914-1918 -- Campaigns -- Middle East'
+- !lcsh 'Lawrence, T. E. (Thomas Edward), 1888-1935'
+- !lcc 'D501'
+- GITenberg
+title: Lawrence and the Arabs
+url: http://www.gutenberg.org/ebooks/74014
