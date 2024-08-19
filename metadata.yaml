@@ -16,6 +16,9 @@ contributor:
     gutenberg_agent_id: '57312'
     url: http://www.gutenberg.org/2009/agents/57312
     wikipedia: https://en.wikipedia.org/wiki/Eric_Kennington
+covers:
+- cover_type: archival
+  image_path: 74014-h/images/cover.jpg
 creator:
   author:
     agent_name: Graves, Robert
@@ -29,6 +32,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/628
     wikipedia: https://en.wikipedia.org/wiki/Robert_Graves
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74014#Lawrence-and-the-Arabs
 gutenberg_issued: '2024-07-11'
 gutenberg_type: Text
 identifiers:
